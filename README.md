@@ -23,11 +23,10 @@ Vamos lá.
 
 ## Para os preguiçocos 
 
-Segue link do github.io já compilado (Sem graça e com conteúdo estático :P) (http://emersonmellado.github.io/flisol-2016-presentation.io/#/)
-
-# Based on reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js)
+    Segue link do github.io já compilado (Sem graça e com conteúdo estático :P) 
+    (http://emersonmellado.github.io/flisol-2016-presentation.io)
 
 ## Any problems?
-Let me know at emersonmellado@gmail.com
-=======
-# presentation.io
+
+    Let me know at emersonmellado@gmail.com
+    *Based on reveal.js [![Build Status](https://travis-ci.org/hakimel/reveal.js.svg?branch=master)](https://travis-ci.org/hakimel/reveal.js)
