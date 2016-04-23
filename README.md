@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Palestra preparada para a ETEC-2016
 
 O conteúdo está offline, dessa forma não é necessário estar conectado a internet para reproduzir (com exceção do vídeo do clóvis.)
@@ -27,3 +28,6 @@ You first need to install [node.js](http://nodejs.org/) if you do not already ha
 
 ## Any problems?
 Let us know at emersonmellado@gmail.com
+=======
+# presentation.io
+>>>>>>> f2e7aa093ca0bfac12abeea60091e652284a039f
